@@ -1,0 +1,10 @@
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.exe.config
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\bin\Release\GreenvilleRevenueGUI.pdb
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.csprojAssemblyReference.cache
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.Form1.resources
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.Properties.Resources.resources
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.exe
+C:\Users\rwebster\Desktop\WebsterWordSearchSolution\GreenvilleRevenueGUI\obj\Release\GreenvilleRevenueGUI.pdb
